@@ -12,7 +12,9 @@ Required Elixir ~> 1.5
 ```
 
 2.- Clone the repository
+
 3.- mix deps.get
+
 4.- mix escript.build 
 
 ## Use
